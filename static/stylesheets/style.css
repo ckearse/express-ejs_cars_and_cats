@@ -1,0 +1,13 @@
+img{
+  width: 150px;
+  height: 130px;
+}
+
+p{
+  color: blue;
+}
+
+label{
+  margin-bottom: 10px;
+  display: block;
+}
